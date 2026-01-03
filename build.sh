@@ -4,7 +4,7 @@ command -v pandoc >/dev/null 2>&1 || { echo >&2 "pandoc is required but it's not
 
 header='<!DOCTYPE html>
 <html>
-<title>my gay website</title>
+<title>im gonna fucking kill myself</title>
 <head>
     <link rel="stylesheet" href="/style.css">
     <script src="/script.js"></script>
