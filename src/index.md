@@ -1,3 +1,3 @@
-[File browser](http://files.uniq.beer)
+[File browser](http://files.uniq.gay)
 
-[Cydia repo](http://cydia.uniq.beer)
+[Cydia repo](http://cydia.uniq.gay)
